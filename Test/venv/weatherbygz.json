@@ -1,0 +1,50 @@
+[
+  {
+    "date": "周六（4日）",
+    "weather": "雨",
+    "min_temperature": "22℃",
+    "max_temperature": "27℃"
+  },
+  {
+    "date": "周日（5日）",
+    "weather": "雨",
+    "min_temperature": "23℃",
+    "max_temperature": "29℃"
+  },
+  {
+    "date": "周一（6日）",
+    "weather": "雨",
+    "min_temperature": "23℃",
+    "max_temperature": "28℃"
+  },
+  {
+    "date": "周二（7日）",
+    "weather": "雨转阴",
+    "min_temperature": "21℃",
+    "max_temperature": "27℃"
+  },
+  {
+    "date": "周三（8日）",
+    "weather": "多云",
+    "min_temperature": "19℃",
+    "max_temperature": "27℃"
+  },
+  {
+    "date": "周四（9日）",
+    "weather": "多云",
+    "min_temperature": "19℃",
+    "max_temperature": "28℃"
+  },
+  {
+    "date": "周五（10日）",
+    "weather": "多云转晴",
+    "min_temperature": "20℃",
+    "max_temperature": "29℃"
+  },
+  {
+    "date": "周六（11日）",
+    "weather": "多云",
+    "min_temperature": "21℃",
+    "max_temperature": "30℃"
+  }
+]
